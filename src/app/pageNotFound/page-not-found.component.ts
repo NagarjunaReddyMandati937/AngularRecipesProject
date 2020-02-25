@@ -1,0 +1,8 @@
+import {Component,EventEmitter,Output} from '@angular/core'
+@Component({
+    selector:'app-pageNotFound',
+    templateUrl:'./page-not-found.component.html'
+})
+export class PageNotFoundComponent{
+
+}
